@@ -16,7 +16,8 @@ This project is motivated by the aim to offer a unified and accessible platform 
 # Key Features
 
 The Drone SITL Project encompasses a broad spectrum of features, including:
-Arming and Disarming: Safely control the drone's motor and arm/disarm sequence.
-Waypoint Navigation: Define custom flight paths and waypoints for autonomous drone missions.
-Swarm Capabilities: Simulate and test swarm intelligence algorithms with multiple drones in the virtual environment.
+
+    Arming and Disarming: Safely control the drone's motor and arm/disarm sequence.
+    Waypoint Navigation: Define custom flight paths and waypoints for autonomous drone missions.
+    Swarm Capabilities: Simulate and test swarm intelligence algorithms with multiple drones in the virtual environment.
 
